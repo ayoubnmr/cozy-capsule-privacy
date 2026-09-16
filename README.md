@@ -1,0 +1,1 @@
+# cozy-capsule-privacy
